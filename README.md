@@ -11,25 +11,25 @@ Refer to ‘Data Quality Framework Table’
   ---------------------------------------------------
              Data Quality Framework Table
   ---------------------------------------------------
-  +Correct Values                    Accuracy
+  +Correct Values            -        Accuracy
   
   - - - - - - - - - - - - - - - - - - - - - - - - - -
-  +Data Fields with                  Completeness
+  +Data Fields with          -        Completeness
    Values
   - - - - - - - - - - - - - - - - - - - - - - - - - -
-  +Values Free from                  Consistency
+  +Values Free from         -         Consistency
    Contradiction
   - - - - - - - - - - - - - - - - - - - - - - - - - -
-  +Values up to Date                 Currency
+  +Values up to Date         -        Currency
   
   - - - - - - - - - - - - - - - - - - - - - - - - - -
-  +Data items with Value             Relevancy
+  +Data items with Value     -        Relevancy
    Meta-data
   - - - - - - - - - - - - - - - - - - - - - - - - - -
-  +Data Containing                   Validity
+  +Data Containing           -        Validity
    Allowable Values
   - - - - - - - - - - - - - - - - - - - - - - - - - -
-  +Records that are                  Uniqueness
+  +Records that are         -         Uniqueness
    Dublicated
   - - - - - - - - - - - - - - - - - - - - - - - - - -
   
